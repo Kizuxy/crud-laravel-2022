@@ -3,6 +3,7 @@
 
 // panggil controller Siswa
 use App\Http\Controllers\SiswaController;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
